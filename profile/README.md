@@ -1,12 +1,38 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+<img src="https://www.velenx.com.br/og/velenx-og.png" alt="VELENX Consulting" width="560">
 
-**Here are some ideas to get you started:**
+**Power Platform, Dynamics 365, AI and Strategic advisory.**
+Build fast. Stay in control. Let's build smarter together!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[🌐 Website](https://www.velenx.com.br) · 📍 São Paulo, Brazil
+
+</div>
+
+---
+
+## 🏢 About us
+
+Velenx governs, secures and migrates Microsoft Power Platform and Dynamics 365, and guides technology and AI decisions for insurance, healthcare and other sectors. We deliver across the Americas and Europe.
+
+## 🧭 What we do
+
+- 🛡️ **Governance and security:** environment strategy, CoE, Copilot Studio governance, Microsoft Sentinel
+- 📋 **GRC:** policies, controls and audit evidence that stand up to review
+- 🔄 **ALM and DevOps:** CI/CD with Azure DevOps and GitHub, for citizen and pro developers
+- 🚚 **Migrations:** tenant-to-tenant, LCS to Power Platform admin center
+- 📦 **Dynamics 365:** CRM and ERP delivery and support
+- ⚙️ **Engineering:** C# and .NET APIs, Azure Functions, plugins and PCFs
+- 🤖 **AI advisory:** strategy and adoption with Gemini, Claude, OpenAI and open-source models
+
+## 🛠️ Stack
+
+`Power Platform` `Dataverse` `Dynamics 365` `Azure` `C# .NET` `Azure DevOps` `GitHub` `PAC CLI` and much more.
+
+## 🤝 Work with us
+
+Have a platform to govern or a decision to make? Visit [velenx.com.br](https://www.velenx.com.br).
+
+---
+
+<sub>© 2026 Velenx Consulting.</sub>
